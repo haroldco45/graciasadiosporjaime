@@ -1,0 +1,17 @@
+{
+  "name": "Gracias Dios por Jaime",
+  "short_name": "GraciasJaime",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f4f6f7",
+  "theme-color": "#1b5e20",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3381/3381186.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
